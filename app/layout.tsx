@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 const inter = Inter({ subsets: ["latin"]})
 
 export const metadata = {
-  title: "Build Websites with LLMs in 2026 | Master Modern Web Development",
+  title: "Build Websites with AI in 2026 | Master Modern Web Development",
   description: "One-time intensive training session on building modern websites using Large Language Models. Learn practical skills for the future of web development.",
   openGraph: {
     title: "Build Websites with LLMs in 2026",
@@ -25,14 +25,6 @@ export const metadata = {
   },
 };
 
-// Add this to your layout's footer or contact section
-const contactInfo = {
-  email: "you@yourdomain.com", // Replace with your email
-  phone: "+1 (555) 123-4567", // Replace with your phone
-  linkedin: "https://linkedin.com/in/yourprofile",
-  github: "https://github.com/yourusername",
-  registrationForm: "https://forms.google.com/your-form-link" // Your Google Form
-};
 
 export default function RootLayout({
   children,
