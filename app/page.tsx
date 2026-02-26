@@ -5,7 +5,7 @@ import TextType from "@/components/DecryptedText";
 import LLMExplanationSection from "@/components/LLMExplanationSection";
 import ProjectShowcaseVelocity from "@/components/ProjectShowcaseVelocity";
 import RealitySection from "@/components/RealitySection";
-import { ArrowRight, Sparkles, Code, Cpu, Zap, Terminal, Languages } from "lucide-react";
+import { ArrowRight, Sparkles, Code, Cpu, Zap, Languages } from "lucide-react";
 import Link from "next/link";
 
 export default function HomePage() {
@@ -38,7 +38,7 @@ export default function HomePage() {
               <TextType
                 text={[
                   "Hello! This website looks great, right? ",
-                  "What if I told you that you can make your own website...",
+                  "What if I told you that you could make your own website...",
                   "Scroll down and contact me for more. Arigatou !!",
                 ]}
                 as="span"

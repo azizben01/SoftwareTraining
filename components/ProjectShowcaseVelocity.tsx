@@ -47,7 +47,7 @@ export default function ProjectShowcaseVelocity() {
               {[...PROJECT_IMAGES, ...PROJECT_IMAGES, ...PROJECT_IMAGES].map((img, index) => (
                 <div
                   key={`row3-${img.id}-${index}`}
-                  className="relative flex-shrink-0 w-[460px] h-[350px] rounded-2xl shadow-4xl overflow-hidden hover:brightness-90 transition-all duration-300 mr-6"
+                  className="relative flex-shrink-0 w-[460px] h-[200px] lg:h-[350px] rounded-2xl shadow-4xl overflow-hidden hover:brightness-90 transition-all duration-300 mr-6"
                 >
                   <Image
                     src={img.src}
