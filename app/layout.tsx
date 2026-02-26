@@ -19,8 +19,8 @@ export const metadata = {
   title: "Build Websites with AI in 2026 | Master Modern Web Development",
   description: "One-time intensive training session on building modern websites using Large Language Models. Learn practical skills for the future of web development.",
   openGraph: {
-    title: "Build Websites with LLMs in 2026",
-    description: "Master AI-powered web development in one intensive day",
+    title: "Build Websites with AI in 2026",
+    description: "Master AI in web development in 4 flexible days-Online/Offline",
     type: "website",
   },
 };
