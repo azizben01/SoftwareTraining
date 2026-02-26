@@ -221,7 +221,7 @@ export default function BookingSection() {
                     <div className="flex-shrink-0">
                       {/* Profile Picture Placeholder */}
                       <Image
-                       src={'/projects/profile2.jpg'}
+                       src={'/projects/Profile2.jpg'}
                        alt='BenProfile'
                        width={300}
                        height={500}
