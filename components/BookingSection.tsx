@@ -288,7 +288,7 @@ export default function BookingSection() {
                   
                   <div className="space-y-6">
                   <a
-                      href="+250 791 207 043" // Replace with your phone number
+                      href="https://wa.me/250791207043"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-4 p-4 bg-primary/30 rounded-xl hover:bg-primary/50 transition-colors"
@@ -297,7 +297,7 @@ export default function BookingSection() {
                         <Contact className="w-6 h-6 text-accent" />
                       </div>
                       <div>
-                        <div className="text-sm text-text-muted">Phone Number</div>
+                        <div className="text-sm text-text-muted">WhatsApp</div>
                         <div className="font-semibold">+250 791 207 043</div>
                       </div>
                     </a>
